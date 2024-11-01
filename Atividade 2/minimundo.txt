@@ -1,0 +1,30 @@
+
+Atividade 2: Criação de DEE
+Professor Carlos Estevão
+jhonatasgomes2003@gmail.com Mudar de conta
+ 
+O nome, a foto e o e-mail associados à sua Conta do Google serão registrados quando você fizer upload de arquivos e enviar este formulário.
+* Indica uma pergunta obrigatória
+Enviar por e-mail
+*
+Registrar jhonatasgomes2003@gmail.com como o e-mail a ser incluído na minha resposta
+Nome completo
+*
+1 ponto
+Zé Dengo Dengo é o proprietário da Perfumaria Elegância, uma loja de perfumes que se tornou muito popular na cidade de Corrente. Com a crescente demanda por fragrâncias e produtos de beleza, ele percebe que a gestão do estoque de perfumes, dos clientes e das vendas se tornou cada vez mais desafiadora. Os registros manuais estão se acumulando, e Zé Dengo Dengo teme que informações cruciais possam se perder. Para otimizar o processo e melhorar a experiência dos clientes, ele decide implementar um sistema informatizado que ajude a gerenciar melhor os recursos da loja.
+
+Zé Dengo Dengo imagina um sistema que permita o registro detalhado dos perfumes disponíveis. Cada perfume deve incluir informações como nome, marca, ano de lançamento, tipo de fragrância (por exemplo, floral, oriental ou amadeirado), volume e preço. Além disso, ele deseja ter um controle preciso do estoque, sabendo quantos frascos de cada perfume estão disponíveis para venda.
+
+Outro aspecto importante que Zé Dengo Dengo considera é o cadastro dos clientes. A loja atende uma variedade de clientes e, para oferecer um atendimento personalizado, ele deseja armazenar informações como nome, data de nascimento, endereço, telefone, e-mail e data de cadastro. Essas informações são cruciais para que a loja possa se comunicar eficazmente com os clientes, oferecendo promoções e acompanhando suas preferências.
+
+Além disso, Zé Dengo Dengo sabe que é fundamental registrar as vendas realizadas. Para cada venda, o sistema deve registrar a data da compra, o ID do cliente (para saber quem comprou), os produtos comprados (com suas respectivas quantidades e preços) e o valor total da transação. Com esses dados organizados, a loja poderá acompanhar melhor as vendas, as preferências dos clientes e o desempenho dos produtos.
+
+Para atender a todas essas necessidades, Zé Dengo Dengo decide criar um modelo entidade-relacionamento que represente todos esses dados de forma clara e organizada. Ele imagina como as entidades se conectam e interagem, como os perfumes se relacionam com as vendas e como os clientes estão associados a essas transações. Com isso em mente, ele começa a esboçar um diagrama que reflita todas essas relações.
+
+Com base na história de Zé Dengo Dengo e nas necessidades da Perfumaria Elegância, como você organizaria um modelo entidade-relacionamento para esse sistema? Pense nas entidades que precisam ser representadas, nos atributos que cada uma deve conter e nos relacionamentos entre elas. Considere como você desenharia o diagrama ER correspondente para ilustrar essa estrutura.
+
+*
+Faça upload de 1 arquivo aceito. O tamanho máximo é de 10 MB.
+Nunca envie senhas pelo Formulários Google.
+Este formulário foi criado em INSTITUTO FEDERAL DO PIAUÍ. Denunciar abuso
+Google Formulários
